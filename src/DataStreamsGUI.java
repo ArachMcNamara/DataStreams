@@ -135,6 +135,7 @@ public class DataStreamsGUI extends JFrame {
         }
         catch (IOException ex) {
 
+
             JOptionPane.showMessageDialog(
                     this,
                     "Search failed.",
